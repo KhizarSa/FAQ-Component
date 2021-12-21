@@ -19,9 +19,9 @@ body {
   font-weight: 400;
   font-size: 1.2rem;
   background: linear-gradient(
-    180deg,
-    #af67e9 0%,
-    rgba(101, 101, 231, 0.88) 100%
+    180.87deg,
+    #af67e9 9.83%,
+    rgba(101, 101, 231, 0.88) 99.25%
   );
   color: #787887;
 
@@ -36,6 +36,7 @@ body {
   height: 52rem;
   width: 95.12rem;
   border-radius: 3.8rem;
+  box-shadow: 0px 35px 50px #6948c9;
 
   display: grid;
   grid-template-columns: 1fr 1fr;
