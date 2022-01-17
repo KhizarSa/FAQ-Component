@@ -293,7 +293,7 @@ body {
 @media (max-width: 31.375em) {
   html,
   body {
-    height: 107%;
+    height: 100%;
     overflow: hidden;
   }
 
